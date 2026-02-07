@@ -12,8 +12,8 @@ export function Header() {
           <div className="w-10 h-10 bg-gradient-to-r from-rose-400 to-blue-400 rounded-full flex items-center justify-center">
             <Sparkles className="w-5 h-5 text-white" />
           </div>
-          <div className="text-3xl font-bold bg-gradient-to-r from-rose-500 to-blue-500 bg-clip-text text-transparent">
-            Andini Prihartiningtias
+          <div className="text-xl font-bold bg-gradient-to-r from-rose-500 to-blue-500 bg-clip-text text-transparent">
+            My Portofolio
           </div>
         </div>
 

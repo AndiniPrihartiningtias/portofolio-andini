@@ -9,6 +9,11 @@ export function HeroSection() {
       <div className="absolute bottom-16 left-1/4 text-4xl animate-pulse">⭐</div>
       <div className="absolute bottom-24 right-1/3 text-2xl animate-bounce">💫</div>
       <div className="absolute top-1/2 left-5 text-3xl animate-ping">🌟</div>
+      <div className="absolute top-16 right-1/4 text-xl animate-pulse">🌸</div>
+      <div className="absolute bottom-10 right-10 text-3xl animate-pulse">✨</div>
+      <div className="absolute top-1/3 right-6 text-2xl animate-bounce">⭐</div>
+      <div className="absolute top-1/4 left-1/3 text-2xl animate-pulse opacity-70">🌸</div>
+
 
       <div className="container mx-auto text-center relative z-10">
         <div className="mb-10">
@@ -17,7 +22,7 @@ export function HeroSection() {
             <div className="absolute inset-0 bg-gradient-to-r from-rose-300 via-purple-300 to-blue-300 rounded-full animate-spin-slow"></div>
             <div className="absolute inset-1.5 bg-gradient-to-br from-rose-200 to-blue-200 rounded-full flex items-center justify-center shadow-lg">
               <Image
-                src="/profil.jpg"
+                src="/pantai.jpeg"
                 alt="Profil"
                 width={600}
                 height={600}
@@ -30,7 +35,7 @@ export function HeroSection() {
           <h1 className="text-5xl md:text-6xl font-bold mb-3">
             ✨{" "}
             <span className="bg-gradient-to-r from-rose-400 via-purple-500 to-blue-500 bg-clip-text text-transparent drop-shadow-sm">
-              Andini Prihartiningtias
+              Data Science Enthusiasm
             </span>{" "}
             ✨
           </h1>
@@ -46,7 +51,7 @@ export function HeroSection() {
             <span className="font-semibold text-blue-600">TypeScript</span>, 🐍{" "}
             <span className="font-semibold text-green-600">Python</span> for data wrangling, 📚{" "}
             <span className="font-semibold text-purple-600">SQL</span> for database systems, and ⚡{" "}
-            <span className="font-semibold text-orange-600">C++</span> for data structures.
+            <span className="font-semibold text-orange-600">C++</span> for data structures.=
             <br />
             <span className="inline-block mt-4">
               ✨ Passionate about building both web applications and data analysis skills! 🚀

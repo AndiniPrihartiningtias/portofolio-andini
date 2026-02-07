@@ -37,7 +37,7 @@ export function AboutSection() {
                   <TrendingUp className="w-6 h-6 text-blue-500 mr-3" />
                   <h3 className="font-semibold text-ray-800">Focus</h3>
                 </div>
-                <p>Web & Data</p>
+                <p>Data & Web</p>
               </CardContent>
             </Card>
           </div>
