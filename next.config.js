@@ -1,10 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  reactStrictMode: true,
-  webpack(config) {
-    config.resolve.alias['@'] = __dirname;
-    return config;
+  webpack: (config) => {
+    return config
   },
-};
+}
 
-module.exports = nextConfig;
+module.exports = nextConfig
