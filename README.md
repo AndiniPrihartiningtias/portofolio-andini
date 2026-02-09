@@ -3,7 +3,7 @@
 Hi! 👋 Saya **Andini Prihartiningtias**, mahasiswa S1 Data Science di Universitas Cakrawala.
 Ini adalah repository untuk **portofolio interaktif** saya yang dibangun menggunakan **Next.js**, **TypeScript**, dan **Tailwind CSS**.
 
-Portofolio ini menampilkan beberapa project pembelajaran saya di bidang **Web Client Development**, **Struktur Data**, dan **Pemrograman Berorientasi Objek (OOP)**.
+Portofolio ini menampilkan beberapa project pembelajaran saya di bidang **Analisis data**, **Struktur Data**, **Sistem database**, **Web Development** dan **Pemrograman Berorientasi Objek (OOP)**.
 
 ---
 
