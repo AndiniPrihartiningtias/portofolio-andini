@@ -32,7 +32,7 @@ export const projects: Project[] = [
     title: "Personal Portfolio Website",
     desc: "Showcasing comprehensive web development skills and best practices learned throughout the course.",
     techs: ["JavaScript", "Responsive", "CSS"],
-    link: "https://github.com/AndiniPrihartiningtias/UTS-Web-Client-Development/tree/main/Tugas3Fixed",
+    link: "https://github.com/AndiniPrihartiningtias/portofolio-andini.git",
   },
   {
     color: "blue",
